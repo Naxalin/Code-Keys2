@@ -5,7 +5,7 @@
     </i>
     <div class="details">
       <h3>
-        <slot name="heading"></slot>
+        <slot class="flex block" name="heading"></slot>
       </h3>
       <slot></slot>
     </div>
