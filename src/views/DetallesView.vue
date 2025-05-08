@@ -1,10 +1,9 @@
 <script setup>
-import Main from '@/components/Main.vue';
+import Detalles from '@/components/Detalles.vue'
 import DefaultLayout from '@/layouts/DefaultLayout.vue';
 </script>
-
 <template>
     <DefaultLayout>
-        <Main />
+        <Detalles />
     </DefaultLayout>
 </template>

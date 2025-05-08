@@ -1,10 +1,11 @@
 <script setup>
-import Main from '@/components/Main.vue';
 import DefaultLayout from '@/layouts/DefaultLayout.vue';
+import PoliticasPrivacidad from '@/components/PoliticasPrivacidad.vue'
+
 </script>
 
 <template>
     <DefaultLayout>
-        <Main />
+        <PoliticasPrivacidad />
     </DefaultLayout>
 </template>

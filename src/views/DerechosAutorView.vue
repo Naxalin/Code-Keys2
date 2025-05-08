@@ -1,10 +1,11 @@
 <script setup>
-import Main from '@/components/Main.vue';
+import DerechosAutor from '@/components/DerechosAutor.vue'
 import DefaultLayout from '@/layouts/DefaultLayout.vue';
+
 </script>
 
 <template>
     <DefaultLayout>
-        <Main />
+        <DerechosAutor />
     </DefaultLayout>
 </template>
