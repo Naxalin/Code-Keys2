@@ -6,6 +6,7 @@ import RegistroView from '@/views/RegistroView.vue'
 import DerechosAutor from '@/views/DerechosAutorView.vue'
 import CookiesView from '@/views/CookiesView.vue'
 import PoliticasPrivacidadView from '@/views/PoliticasPrivacidadView.vue'
+
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
