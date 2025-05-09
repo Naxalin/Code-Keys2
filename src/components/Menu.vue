@@ -29,7 +29,7 @@ onMounted(() => {
                         <img src="https://media.istockphoto.com/id/1642381175/es/vector/de-cine.jpg?s=612x612&w=0&k=20&c=I7WJnZROJxKx9T3V2H3aPdnubn2sK4ICJxaIYb_fCBk="
                             class="h-8 me-3" alt="FlowBite Logo" />
                         <span
-                            class="self-center text-xl font-semibold sm:text-2xl whitespace-nowrap dark:text-white">Peliculonas</span>
+                            class="self-center text-xl font-semibold sm:text-2xl whitespace-nowrap dark:text-white">Code-Keys</span>
                     </a>
                 </div>
                 <div class="flex items-center">

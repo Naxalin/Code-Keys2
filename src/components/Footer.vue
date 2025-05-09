@@ -21,7 +21,7 @@
             </div>
             <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
             <span class="block text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 <a href="#"
-                    class="hover:underline">Peliculonas</a>. © 2025 Esteban Gonzalo. Todos los derechos
+                    class="hover:underline">Code-Keys</a>. © 2025 Esteban Gonzalo. Todos los derechos
                 reservados.</span>
         </div>
     </footer>
